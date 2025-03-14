@@ -1,0 +1,27 @@
+_repo: Ladies-dress-shoes-of-the-nineteenth-century_75531
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Greig, T. Watson
+    gutenberg_agent_id: '58037'
+    url: http://www.gutenberg.org/2009/agents/58037
+description: ''
+gutenberg_issued: '2025-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75531'
+language: en
+pgterms:marc904: https://archive.org/details/ladiesdressshoe00grei/page/n5/mode/2up
+pgterms:marc905: 20240716051924greig
+pgterms:marc906: '1900'
+pgterms:marc907: GB
+production_note: Alan, Mairi and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aEdinburgh :$bDavid Douglas, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ladies' dress shoes of the nineteenth century
+url: http://www.gutenberg.org/ebooks/75531
